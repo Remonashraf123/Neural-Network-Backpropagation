@@ -1,4 +1,4 @@
-# Neural Network Backpropagation Example
+# Neural Network Backpropagation
 
 This project implements a simple neural network with one hidden layer using NumPy to demonstrate forward and backward propagation.
 
